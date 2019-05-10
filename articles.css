@@ -1,0 +1,26 @@
+div.head1 {
+  font-size: 300%;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: overline underline;
+}
+div.art2 {
+  font-size: 120%;
+  text-align: justify;
+  text-indent: 20px;
+}
+div.head2 {
+  font-size: 200%;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+ul.outside {
+  list-style-position: outside;
+}
+div.citate {
+  font-size: 150%;
+  text-align: left;
+  text-decoration-color: green;
+  font-style: italic;
+}
